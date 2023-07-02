@@ -22,5 +22,6 @@
       "path": "packs/critical-damage"
     }
   ],
-  "url": "https://raw.githubusercontent.com/offendo/criticals/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/offendo/criticals/main/module.json",
+  "download": "https://github.com/offendo/criticals/archive/refs/tags/1.0.0.zip"
 }
