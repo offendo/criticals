@@ -21,5 +21,6 @@
       "system": "starwarsffg",
       "path": "packs/critical-damage"
     }
-  ]
+  ],
+  "url": "https://raw.githubusercontent.com/offendo/criticals/main/module.json"
 }
