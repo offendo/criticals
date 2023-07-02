@@ -1,0 +1,25 @@
+{
+  "id": "criticaltables",
+  "title": "CriticalTables",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "label": "Critical Injuries",
+      "name": "critical-injuries",
+      "type": "Item",
+      "system": "starwarsffg",
+      "path": "packs/critical-injuries"
+    },
+    {
+      "label": "Critical Damages",
+      "name": "critical-damages",
+      "type": "Item",
+      "system": "starwarsffg",
+      "path": "packs/critical-damage"
+    }
+  ]
+}
